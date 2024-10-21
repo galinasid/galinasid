@@ -1,3 +1,8 @@
+<br clear="both">
+
+<div align="center">
+  <img src="https://giphy.com/embed/LMcB8XospGZO8UQq87" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen><p><a href="https://giphy.com/gifs/Pluralsight-girl-woman-pluralsight-LMcB8XospGZO8UQq87"></a></p>
+
 <h1 align="center">Привет👋 Меня зовут Аля!</h1>
 
 ###
